@@ -4,7 +4,7 @@ FLASH BTC TRANSACTION (Core Network) Full Version 7.0.0  FLASH BTC TRANSACTION (
 -Send transactions with confirmation 
 -No transaction limit per day 
 -No amount limit per day 
--Can send up to 500 BTC per transaction 
+-Can send up to 150 BTC per transaction 
 -Stay in the wallet for more than 180 days 
 -100% Anonymous (clears your history after each transaction) 
 -You can edit transaction fees 
